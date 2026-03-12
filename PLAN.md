@@ -1,4 +1,4 @@
-# engineeringblogs.xyz
+# rss.kohsruhe.com
 
 A single-page aggregator of engineering blog posts covering the past seven days only. There is an OPML file with all the feeds.
 
@@ -6,7 +6,7 @@ A single-page aggregator of engineering blog posts covering the past seven days 
 
 Displays recent posts from hundreds of engineering blogs on a single static HTML page. Updated automatically every few hours via GitHub Actions and served by GitHub Pages.
 
-Look at https://engineeringblogs.xyz/ for the current basic layout. I want something similar just as a step 1 but we will make it fancier later.
+Look at https://rss.kohsruhe.com/ for the current basic layout. I want something similar just as a step 1 but we will make it fancier later.
 
 We need to be able to run it locally in dev too.
 
@@ -32,7 +32,7 @@ Exit 0 even if some feeds fail (they always will). Print a summary to stderr: to
 
 ### Feed fetching details
 
-- Set a proper User-Agent: `"EngBlogs/1.0 (+https://engineeringblogs.xyz)"`.
+- Set a proper User-Agent: `"EngBlogs/1.0 (+https://rss.kohsruhe.com)"`.
 - 10 second connect timeout, 15 second read timeout per feed.
 - Follow redirects.
 - Catch and log all errors per-feed: timeouts, SSL errors, parse failures, HTTP errors.

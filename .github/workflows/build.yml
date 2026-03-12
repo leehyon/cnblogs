@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
     paths:
-      - 'engblogs.opml'
+      - 'cngblogs.opml'
       - 'template.html'
       - 'main.go'
       - '.github/workflows/build.yml'

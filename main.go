@@ -17,12 +17,12 @@ import (
 )
 
 const (
-	userAgent      = "EngBlogs/1.0 (+https://engineeringblogs.xyz)"
+	userAgent      = "EngBlogs/1.0 (+https://rss.kohsruhe.com)"
 	maxConcurrency = 30
 	connectTimeout = 10 * time.Second
 	readTimeout    = 15 * time.Second
 	maxDays        = 7
-	opmlFile       = "engblogs.opml"
+	opmlFile       = "cngblogs.opml"
 	cacheFile      = "cache.json"
 	outputDir      = "public"
 )
@@ -71,11 +71,11 @@ type AtomFeed struct {
 }
 
 type AtomEntry struct {
-	Title   string     `xml:"title"`
-	Links   []AtomLink `xml:"link"`
-	Updated string     `xml:"updated"`
-	Published string   `xml:"published"`
-	ID      string     `xml:"id"`
+	Title     string     `xml:"title"`
+	Links     []AtomLink `xml:"link"`
+	Updated   string     `xml:"updated"`
+	Published string     `xml:"published"`
+	ID        string     `xml:"id"`
 }
 
 type AtomLink struct {
@@ -114,10 +114,10 @@ type DateGroup struct {
 }
 
 type TemplateData struct {
-	Groups    []DateGroup
-	FeedCount int
+	Groups     []DateGroup
+	FeedCount  int
 	EntryCount int
-	BuiltAt   string
+	BuiltAt    string
 }
 
 func main() {
@@ -554,10 +554,9 @@ func copyOPML() error {
 	if err != nil {
 		return err
 	}
-	return os.WriteFile(filepath.Join(outputDir, "engblogs.opml"), data, 0644)
+	return os.WriteFile(filepath.Join(outputDir, "cngblogs.opml"), data, 0644)
 }
 
 func writeCNAME() error {
-	return os.WriteFile(filepath.Join(outputDir, "CNAME"), []byte("engineeringblogs.xyz\n"), 0644)
+	return os.WriteFile(filepath.Join(outputDir, "CNAME"), []byte("rss.kohsruhe.com\n"), 0644)
 }
-
