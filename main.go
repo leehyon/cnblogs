@@ -22,7 +22,7 @@ const (
 	connectTimeout = 10 * time.Second
 	readTimeout    = 15 * time.Second
 	maxDays        = 7
-	opmlFile       = "cngblogs.opml"
+	opmlFile       = "cnblogs.opml"
 	cacheFile      = "cache.json"
 	outputDir      = "public"
 )
@@ -554,7 +554,7 @@ func copyOPML() error {
 	if err != nil {
 		return err
 	}
-	return os.WriteFile(filepath.Join(outputDir, "cngblogs.opml"), data, 0644)
+	return os.WriteFile(filepath.Join(outputDir, "cnblogs.opml"), data, 0644)
 }
 
 func writeCNAME() error {

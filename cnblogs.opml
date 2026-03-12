@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <opml version="1.0">
 <head><title>中文博客</title></head>
-	
-	
 	<body>
 		<outline type="rss" title="Tevin Zhang" xmlUrl="https://tevinzhang.com/zh/feed.xml"></outline>
 		<outline type="rss" title="肘子的 Swift 记事本" xmlUrl="https://fatbobman.com/zh/rss.xml"></outline>

@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-OPML_FILE="$(cd "$(dirname "$0")" && pwd)/cngblogs.opml"
+OPML_FILE="$(cd "$(dirname "$0")" && pwd)/cnblogs.opml"
 
 AUTO=false
 
 usage() {
   echo "Usage: $0 [-y] <blog-url>"
-  echo "  Discovers the RSS/Atom feed for a blog and adds it to cngblogs.opml"
+  echo "  Discovers the RSS/Atom feed for a blog and adds it to cnblogs.opml"
   echo ""
   echo "Options:"
   echo "  -y   Auto-confirm: pick the first feed and accept the title without prompting"
@@ -86,7 +86,7 @@ fi
 
 # Check for duplicate feed URL in the OPML
 if grep -qF "\"$feed_url\"" "$OPML_FILE"; then
-  echo "Feed already exists in cngblogs.opml: $feed_url"
+  echo "Feed already exists in cnblogs.opml: $feed_url"
   exit 1
 fi
 
@@ -145,7 +145,7 @@ esc_html=$(xml_escape "$blog_url")
 outline_line="<outline type=\"rss\" text=\"${esc_title}\" xmlUrl=\"${esc_feed}\" htmlUrl=\"${esc_html}\"/>"
 
 echo ""
-echo "Adding to cngblogs.opml:"
+echo "Adding to cnblogs.opml:"
 echo "  $outline_line"
 echo ""
 
