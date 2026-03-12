@@ -48,7 +48,7 @@ Key elements:
 - Link to the OPML file (served from the repo or GitHub raw URL).
 - Entries grouped by date, each showing: blog name, post title (linked), and time.
 - Responsive: single-column on mobile, two-column (source + title) on desktop.
-- A footer linking to the GitHub repo (peterc/engblogs) and inviting submissions.
+- A footer linking to the GitHub repo (leehyon/cnblogs) and inviting submissions.
 - Light, fast, no JavaScript required for core functionality.
 
 Keep the current design direction (monospace-influenced, minimal, blue accent) or improve on it -- but don't over-design it. It's a feed list.
