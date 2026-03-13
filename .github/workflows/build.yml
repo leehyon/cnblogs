@@ -9,7 +9,7 @@ on:
       - 'main.go'
       - '.github/workflows/build.yml'
   schedule:
-    - cron: '0 0 * * *'  # Daily at 00:00 UTC
+    - cron: '0 */8 * * *'  # Every 8 hours
   workflow_dispatch:        # Manual trigger
 
 permissions:
