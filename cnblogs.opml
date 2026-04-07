@@ -282,7 +282,6 @@
 		<outline type="rss" title="Holmesian Blog" xmlUrl="https://holmesian.org/feed"></outline>
 		<outline type="rss" title="张小凯的博客" xmlUrl="https://jasonkayzk.github.io/atom.xml"></outline>
 		<outline type="rss" title="JimmyLv@吕立青的博客" xmlUrl="https://blog.jimmylv.info/pages/feed.xml"></outline>
-		<outline type="rss" title="墙外看的博客" xmlUrl="https://qiangwaikan.com/feed/"></outline>
 		<outline type="rss" title="yzqzss|一座桥在水上's Blog" xmlUrl="https://blog.othing.xyz/feed/"></outline>
 		<outline type="rss" title="Terrarum::异世界丨居正博客" xmlUrl="https://blog.skyju.cc/index.xml"></outline>
 		<outline type="rss" title="Li Hui Blog" xmlUrl="https://lihui.net/feed"></outline>
@@ -862,7 +861,7 @@
 		<outline type="rss" title="橙树志" xmlUrl="https://citydatum.cn/feed"></outline>
 		<outline type="rss" title="屠·城" xmlUrl="https://www.haomwei.com/atom.xml"></outline>
 		<outline type="rss" title="叉息的空中咖啡馆" xmlUrl="https://www.xchere.xyz/atom.xml"></outline>
-		<outline type="rss" title="明立非(Mingnify)的博客" xmlUrl="https://mingnify.com/zh/blog/atom.xml"></outline>
+		<outline type="rss" title="明立非的博客" xmlUrl="https://mingnify.com/zh/blog/atom.xml"></outline>
 		<outline type="rss" title="Lamber的博客" xmlUrl="https://lamber-maybe.com/blog/index.xml"></outline>
 		<outline type="rss" title="王圆圆" xmlUrl="https://www.iconpik.com/rss/"></outline>
 		<outline type="rss" title="带鱼Blog" xmlUrl="https://blog.beltfish.cn/feed/"></outline>
