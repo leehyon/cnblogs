@@ -12,7 +12,6 @@
 		<outline type="rss" title="枝因" xmlUrl="https://viyi.cc/index.xml"></outline>
 		<outline type="rss" title="Ayu" xmlUrl="https://ayu.land/rss.zh.xml"></outline>
 		<outline type="rss" title="安擎" xmlUrl="https://angine.tech/atom.xml"></outline>
-		<outline type="rss" title="张洪Heo" xmlUrl="https://blog.zhheo.com/rss.xml"></outline>
 		<outline type="rss" title="透明创业实验" xmlUrl="https://blog.t9t.io/atom.xml"></outline>
 		<outline type="rss" title="阮一峰的网络日志" xmlUrl="http://feeds.feedburner.com/ruanyifeng"></outline>
 		<outline type="rss" title="酷 壳 – CoolShell" xmlUrl="http://coolshell.cn/feed"></outline>
@@ -37,7 +36,7 @@
 		<outline type="rss" title="前端工程师 Toweave" xmlUrl="https://toweave.github.io/rss.xml"></outline>
 		<outline type="rss" title="MouT.me" xmlUrl="https://ghost.mout.me/rss/"></outline>
 		<outline type="rss" title="diss带码" xmlUrl="https://dumplingbao.github.io/atom.xml"></outline>
-		<outline type="rss" title="王登科-DK博客" xmlUrl="https://greatdk.com/feed"></outline>
+		<outline type="rss" title="王登科" xmlUrl="https://greatdk.com/feed"></outline>
 		<outline type="rss" title="笨方法学写作" xmlUrl="https://www.cnfeat.com/feed.xml"></outline>
 		<outline type="rss" title="云原生" xmlUrl="https://jimmysong.io/index.xml"></outline>
 		<outline type="rss" title="Hawstein's Blog" xmlUrl="http://hawstein.com/feed.xml"></outline>
@@ -192,12 +191,12 @@
 		<outline type="rss" title="Power's Wiki" xmlUrl="https://wiki-power.com/feed_rss_updated.xml"></outline>
 		<outline type="rss" title="瞬间 Press" xmlUrl="https://tripper.press/atom.xml"></outline>
 		<outline type="rss" title="未知的世界" xmlUrl="http://lulalap.com/atom.xml"></outline>
-		<outline type="rss" title="@Lenciel" xmlUrl="https://lenciel.com/feed.xml"></outline>
+		<outline type="rss" title="Lenciel" xmlUrl="https://lenciel.com/feed.xml"></outline>
 		<outline type="rss" title="M-x Chris-An-Emacser" xmlUrl="https://chriszheng.science/atom.xml"></outline>
 		<outline type="rss" title="第七星尘的独立博客" xmlUrl="https://blog.star7th.com/feed"></outline>
 		<outline type="rss" title="weirane's blog" xmlUrl="https://weirane.github.io/feed.xml"></outline>
 		<outline type="rss" title="Joway's Blog" xmlUrl="https://blog.joway.io/index.xml"></outline>
-		<outline type="rss" title="Mayx的博客" xmlUrl="https://mabbs.github.io/atom.xml"></outline>
+		<outline type="rss" title="Mayx 的博客" xmlUrl="https://mabbs.github.io/atom.xml"></outline>
 		<outline type="rss" title="Ground Oddity" xmlUrl="http://idle.systems/atom.xml"></outline>
 		<outline type="rss" title="姬涛的个人网站" xmlUrl="https://www.jitao.tech/rss.xml"></outline>
 		<outline type="rss" title="数字移民博客" xmlUrl="https://blog.shuziyimin.org/feed"></outline>
@@ -216,7 +215,7 @@
 		<outline type="rss" title="the wandering potato 出遊的土豆" xmlUrl="https://thewanderingpotato.github.io/feed.xml"></outline>
 		<outline type="rss" title="小炒肉" xmlUrl="https://jicki.cn/index.xml"></outline>
 		<outline type="rss" title="桑河一榆" xmlUrl="https://justpic.org/index.xml"></outline>
-		<outline type="rss" title="Tinyfool的中文Blog" xmlUrl="https://codechina.org/feed/"></outline>
+		<outline type="rss" title="Tinyfool 的中文Blog" xmlUrl="https://codechina.org/feed/"></outline>
 		<outline type="rss" title="二丫讲梵" xmlUrl="https://wiki.eryajf.net/rss.xml"></outline>
 		<outline type="rss" title="Wulu's Blog" xmlUrl="https://wulu.zone/feed/post.xml"></outline>
 		<outline type="rss" title="RAIS" xmlUrl="https://ai.renyuzhuo.cn/atom.xml"></outline>
@@ -270,9 +269,9 @@
 		<outline type="rss" title="251" xmlUrl="https://blog.251.sh/feed/"></outline>
 		<outline type="rss" title="卢贤泼的博客" xmlUrl="https://www.luxianpo.com/rss.xml"></outline>
 		<outline type="rss" title="迷途小书童" xmlUrl="https://xugaoxiang.com/feed"></outline>
-		<outline type="rss" title="Diff客旅日记" xmlUrl="https://diff.im/blog/?feed=rss2"></outline>
+		<outline type="rss" title="Diff 客旅日记" xmlUrl="https://diff.im/blog/?feed=rss2"></outline>
 		<outline type="rss" title="jax - 走在路上" xmlUrl="https://cdjax.com/?feed=rss2"></outline>
-		<outline type="rss" title="XINDOO的博客" xmlUrl="https://zxs.io/feed"></outline>
+		<outline type="rss" title="XINDOO 的博客" xmlUrl="https://zxs.io/feed"></outline>
 		<outline type="rss" title="极客兔兔" xmlUrl="https://geektutu.com/feed.xml"></outline>
 		<outline type="rss" title="阿掖山：一个博客" xmlUrl="https://mountaye.github.io/blog/feed.xml"></outline>
 		<outline type="rss" title="陈少文的博客" xmlUrl="https://www.chenshaowen.com/atom.xml"></outline>
@@ -325,7 +324,7 @@
 		<outline type="rss" title="花束渲染" xmlUrl="https://bouquetrender.space/feed.xml"></outline>
 		<outline type="rss" title="LoRexxar's Blog" xmlUrl="https://lorexxar.cn/atom.xml"></outline>
 		<outline type="rss" title="Orange" xmlUrl="https://feeds.feedburner.com/blogspot/Aohx"></outline>
-		<outline type="rss" title="bboysoul的博客" xmlUrl="https://www.bboy.app/atom.xml"></outline>
+		<outline type="rss" title="bboysoul 的博客" xmlUrl="https://www.bboy.app/atom.xml"></outline>
 		<outline type="rss" title="一派胡言" xmlUrl="https://zhangyet.github.io/feed.xml"></outline>
 		<outline type="rss" title="瘦人志" xmlUrl="http://www.wuqiwen.cn/feed/"></outline>
 		<outline type="rss" title="JustZht" xmlUrl="https://www.justzht.com/rss/"></outline>
@@ -440,7 +439,7 @@
 		<outline type="rss" title="Measure Zero" xmlUrl="https://shiina18.github.io/atom.xml"></outline>
 		<outline type="rss" title="openSUSE 中文社区" xmlUrl="https://suse.org.cn/feed.xml"></outline>
 		<outline type="rss" title="Peacalm Notes - 双全的网站" xmlUrl="https://lishuangquan.cn/index.xml"></outline>
-		<outline type="rss" title="icodex - 个人网站" xmlUrl="https://icodex.me/atom.xml"></outline>
+		<outline type="rss" title="icodex" xmlUrl="https://icodex.me/atom.xml"></outline>
 		<outline type="rss" title="Rei's Blog" xmlUrl="https://rei.ac/index.xml"></outline>
 		<outline type="rss" title="Peijie's Wiki" xmlUrl="https://liupj.top/atom.xml"></outline>
 		<outline type="rss" title="Yunfeng's Simple Blog" xmlUrl="https://vra.github.io/atom.xml"></outline>
@@ -588,7 +587,7 @@
 		<outline type="rss" title="HikariLan's Blog" xmlUrl="https://my.minecraft.kim/feed"></outline>
 		<outline type="rss" title="Rehtt's Blog" xmlUrl="https://rehtt.com/index.php/feed/"></outline>
 		<outline type="rss" title="Bluemangoo;s Blog" xmlUrl="https://blog.bluemangoo.net/rss.xml"></outline>
-		<outline type="rss" title="豌豆花下猫 | Python猫" xmlUrl="https://pythoncat.top/rss.xml"></outline>
+		<outline type="rss" title="豌豆花下猫" xmlUrl="https://pythoncat.top/rss.xml"></outline>
 		<outline type="rss" title="重生云" xmlUrl="https://xiaochopin.github.io/feed.xml"></outline>
 		<outline type="rss" title="闲人Life" xmlUrl="https://www.xianrenlife.com/feeds/posts/default"></outline>
 		<outline type="rss" title="Seraphineの小窝" xmlUrl="https://www.helloseraphine.top/atom.xml"></outline>
@@ -638,7 +637,7 @@
 		<outline type="rss" title="游钓四方" xmlUrl="https://lhasa.icu/atom.xml"></outline>
 		<outline type="rss" title="十月遗忘诗" xmlUrl="https://greniray.org/feed"></outline>
 		<outline type="rss" title="AsyncX's Blog" xmlUrl="https://hi.asyncx.top/rss.xml"></outline>
-		<outline type="rss" title="Mag‘s Blog" xmlUrl="https://mag267.github.io/atom.xml"></outline>
+		<outline type="rss" title="Mag's Blog" xmlUrl="https://mag267.github.io/atom.xml"></outline>
 		<outline type="rss" title="Ali's Blog" xmlUrl="https://blog.liuailin.top/atom.xml"></outline>
 		<outline type="rss" title="裴先生笔记" xmlUrl="https://blog.peiluming.com/feed"></outline>
 		<outline type="rss" title="Oyyko's Blog" xmlUrl="https://blog.oyyko.com/index.xml"></outline>
@@ -668,7 +667,6 @@
 		<outline type="rss" title="Cosmos的博客" xmlUrl="https://cosmo-polite.com/feed/"></outline>
 		<outline type="rss" title="椒盐豆豉" xmlUrl="https://blog.douchi.space/index.xml"></outline>
 		<outline type="rss" title="在01之间到处找我" xmlUrl="https://imzh.me/index.xml"></outline>
-		<outline type="rss" title="JZ's Rambles" xmlUrl="https://ramble.imzh.me/index.xml"></outline>
 		<outline type="rss" title="Wener's Live &amp; Life" xmlUrl="https://wener.me/story/rss.xml"></outline>
 		<outline type="rss" title="心的道理" xmlUrl="https://stephenleng.com/cn/rss"></outline>
 		<outline type="rss" title="卫博生" xmlUrl="https://www.webersongao.com/feed"></outline>
@@ -781,7 +779,7 @@
 		<outline type="rss" title="蒙奇日记" xmlUrl="https://luffy.cc/feed"></outline>
 		<outline type="rss" title="data4fun" xmlUrl="https://data4fun.cc/index.xml"></outline>
 		<outline type="rss" title="失迹の博客" xmlUrl="https://blog.reincarnatey.net/index.xml"></outline>
-		<outline type="rss" title="Kerry的学习笔记" xmlUrl="https://kerrynotes.com/feed/"></outline>
+		<outline type="rss" title="Kerry 的学习笔记" xmlUrl="https://kerrynotes.com/feed/"></outline>
 		<outline type="rss" title="smile 的博客花园" xmlUrl="https://nsddd.top/zh/posts/index.xml"></outline>
 		<outline type="rss" title="东东's Blog" xmlUrl="https://blog.yasking.org/atom.xml"></outline>
 		<outline type="rss" title="有思想的芦苇's Blog" xmlUrl="https://thinking-reed.cn/atom.xml"></outline>
@@ -814,7 +812,6 @@
 		<outline type="rss" title="Yonglin's Blog" xmlUrl="https://xieyonglin.com/posts/rss.xml"></outline>
 		<outline type="rss" title="晴空树" xmlUrl="https://pinaland.cn/feed/"></outline>
 		<outline type="rss" title="空鸣深语" xmlUrl="https://blog.deepchirp.com/atom.xml"></outline>
-		<outline type="rss" title="distjr_'s blog" xmlUrl="https://ruufly.github.io/atom.xml"></outline>
 		<outline type="rss" title="月石MoonStone" xmlUrl="https://moonstone.fun/feed/"></outline>
 		<outline type="rss" title="栖木的网络日志" xmlUrl="https://blog.thedoga.tech/feed"></outline>
 		<outline type="rss" title="叶泯希" xmlUrl="https://blog.418121.xyz/rss2.xml"></outline>
@@ -892,6 +889,6 @@
 		<outline type="rss" title="Yourlai's Blog" xmlUrl="https://yourlai.icu/feed/"></outline>
 		<outline type="rss" title="Jake Blog" xmlUrl="https://jaketao.com/feed/"></outline>
 		<outline type="rss" title="ABB00717's Blog" xmlUrl="https://blog.abb00717.com/index.xml"></outline>
-		<outline type="rss" title="資工小廢物 - JN" xmlUrl="https://blog.giveanornot.com/index.xml"></outline>
+		<outline type="rss" title="資工小廢物" xmlUrl="https://blog.giveanornot.com/index.xml"></outline>
 	</body>
 </opml>
