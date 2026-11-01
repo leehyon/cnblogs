@@ -884,5 +884,6 @@
 		<outline type="rss" title="Jake Blog" xmlUrl="https://jaketao.com/feed/"></outline>
 		<outline type="rss" title="ABB00717's Blog" xmlUrl="https://blog.abb00717.com/index.xml"></outline>
 		<outline type="rss" title="資工小廢物" xmlUrl="https://blog.giveanornot.com/index.xml"></outline>
+		<outline type="rss" title="VPS录" xmlUrl="https://vpslu.com/feed.xml"></outline>
 	</body>
 </opml>
